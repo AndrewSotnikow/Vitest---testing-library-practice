@@ -1,0 +1,71 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@AndrewSotnikow 
+AndrewSotnikow
+/
+Gridder
+Public
+Fork your own copy of AndrewSotnikow/Gridder
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Gridder/.gitignore
+
+AndriiSotnikov initial commit
+Latest commit 503b3f1 5 days ago
+ History
+ 0 contributors
+25 lines (23 sloc)  259 Bytes
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.yarn
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Gridder/.gitignore at master · AndrewSotnikow/Gridder

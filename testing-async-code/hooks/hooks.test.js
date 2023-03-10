@@ -3,10 +3,10 @@ import { it, expect, afterEach } from 'vitest'
 import { User } from './hooks'
 
 const testEmail = 'test@test.com'
-const user = new User(testEmail)
+let user = new User(testEmail)
 
 afterEach(() => {
-  const user = new User(testEmail)
+  user = new User(testEmail)
 })
 
 it('should update the email', () => {
